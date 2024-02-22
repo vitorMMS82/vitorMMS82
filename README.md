@@ -1,4 +1,4 @@
-# Vitor Manoel Moura Santos Hi there 👋
+# Vitor Manoel Moura Santos 👋
 
 Sou estudante de programação Front End com parceria com a Ford, no Senai automobilistico do Ipiranga.
 Atualmente tenho 19, e busco me tornar um bom profissional na área da tecnologia 
