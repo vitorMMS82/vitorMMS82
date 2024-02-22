@@ -4,6 +4,27 @@ Sou estudante de programação Front End com parceria com a Ford, no Senai autom
 Atualmente tenho 19, e busco me tornar um bom profissional na área da tecnologia 
 
 ## Formação
+Ensino médio completo
+
+
+### Tecnologias que estou aprendendo 
+
+* Markdown (linguagem de marcação)
+* HTML (linguagem de marcação)
+* CSS (linguagem de estilização)
+* JavaScript
+* Git e Git Bash
+* GitHub
+* PowerShell
+
+Acesse o [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise diretamente no google em <https://google.com/?q=markdown>
+
+<!-- Esse exemplo acima é o equivalente em HTML a:
+  <a href=https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">Guia básico de Markdown</a>
+
+
+
+
 
 
 
